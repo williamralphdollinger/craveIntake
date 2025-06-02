@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-27 14:09:11</sys_created_on>
+        <sys_id>d0fccf49c3b96210a16198fdd4013145</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_244776_crave_request.x_244776_crave.agent</sys_name>
+        <sys_package display_value="Crave" source="x_244776_crave">47ec8f49c3b96210a16198fdd4013150</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crave">47ec8f49c3b96210a16198fdd4013150</sys_scope>
+        <sys_security_acl display_value="x_244776_crave_request">94fccf49c3b96210a16198fdd4013129</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d0fccf49c3b96210a16198fdd4013145</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-27 14:09:11</sys_updated_on>
+        <sys_user_role display_value="x_244776_crave.agent" name="x_244776_crave.agent">48fccf49c3b96210a16198fdd401311a</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Crave">47ec8f49c3b96210a16198fdd4013150</application>
+        <file_path/>
+        <instance_id>a3890f7c93a0eed4c4e8ddd548373c6e</instance_id>
+        <instance_name>dev310227</instance_name>
+        <name>sys_security_acl_role_d0fccf49c3b96210a16198fdd4013145</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-27 14:09:11</sys_created_on><sys_id>d0fccf49c3b96210a16198fdd4013145</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_244776_crave_request.x_244776_crave.agent</sys_name><sys_package display_value="Crave" source="x_244776_crave">47ec8f49c3b96210a16198fdd4013150</sys_package><sys_policy/><sys_scope display_value="Crave">47ec8f49c3b96210a16198fdd4013150</sys_scope><sys_security_acl display_value="x_244776_crave_request">94fccf49c3b96210a16198fdd4013129</sys_security_acl><sys_update_name>sys_security_acl_role_d0fccf49c3b96210a16198fdd4013145</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-27 14:09:11</sys_updated_on><sys_user_role display_value="x_244776_crave.agent" name="x_244776_crave.agent">48fccf49c3b96210a16198fdd401311a</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1733823148</payload_hash>
+        <record_name>x_244776_crave_request.x_244776_crave.agent</record_name>
+        <reverted_from/>
+        <source>03ec8f49c3b96210a16198fdd4013155</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-27 14:09:11</sys_created_on>
+        <sys_id>50fccf49c3b96210a16198fdd4013148</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19712136a400000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-27 14:09:11</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>54fccf49c8b962103fc2f7ed43523b47</update_guid>
+        <update_guid_history>54fccf49c8b962103fc2f7ed43523b47:-1733823148</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_244776_crave_request.x_244776_crave.agent">b0ae470dc3b96210a16198fdd40131cb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-27 14:16:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>38525dcb114947549fe8671cf8e7b990</sys_id>
+        <sys_metadata>d0fccf49c3b96210a16198fdd4013145</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_244776_crave_request.x_244776_crave.agent</sys_name>
+        <sys_package display_value="Crave" source="x_244776_crave">47ec8f49c3b96210a16198fdd4013150</sys_package>
+        <sys_parent display_value="">94fccf49c3b96210a16198fdd4013129</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Crave">47ec8f49c3b96210a16198fdd4013150</sys_scope>
+        <sys_scope_delete display_value="">2eb8a4d87ee64432ab9feeb182908a51</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_d0fccf49c3b96210a16198fdd4013145</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_d0fccf49c3b96210a16198fdd4013145">50fccf49c3b96210a16198fdd4013148</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-27 14:16:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

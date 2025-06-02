@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Notes" section_id="027d8b89c3b96210a16198fdd40131df" sys_domain="global" table="x_244776_crave_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 14:11:30</sys_created_on>
+            <sys_id>c67d8b89c3b96210a16198fdd40131f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_244776_crave_request" sys_domain="global" view="Default view">027d8b89c3b96210a16198fdd40131df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 14:11:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 14:11:30</sys_created_on>
+            <sys_id>4e7d8b89c3b96210a16198fdd40131df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_244776_crave_request" sys_domain="global" view="Default view">027d8b89c3b96210a16198fdd40131df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 14:11:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 14:11:30</sys_created_on>
+            <sys_id>427d8b89c3b96210a16198fdd40131f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_244776_crave_request" sys_domain="global" view="Default view">027d8b89c3b96210a16198fdd40131df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 14:11:30</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Notes</caption>
+            <header>false</header>
+            <name>x_244776_crave_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 14:11:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>027d8b89c3b96210a16198fdd40131df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_244776_crave_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Crave" source="x_244776_crave">47ec8f49c3b96210a16198fdd4013150</sys_package>
+            <sys_policy>read</sys_policy>
+            <sys_scope display_value="Crave">47ec8f49c3b96210a16198fdd4013150</sys_scope>
+            <sys_update_name>sys_ui_section_027d8b89c3b96210a16198fdd40131df</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 14:11:30</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Crave">47ec8f49c3b96210a16198fdd4013150</application>
+        <file_path/>
+        <instance_id>a3890f7c93a0eed4c4e8ddd548373c6e</instance_id>
+        <instance_name>dev310227</instance_name>
+        <name>sys_ui_section_027d8b89c3b96210a16198fdd40131df</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Notes" section_id="027d8b89c3b96210a16198fdd40131df" sys_domain="global" table="x_244776_crave_request" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-27 14:11:30</sys_created_on><sys_id>c67d8b89c3b96210a16198fdd40131f9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Notes" display_value="Notes" name="x_244776_crave_request" sys_domain="global" view="Default view">027d8b89c3b96210a16198fdd40131df</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-27 14:11:30</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-27 14:11:30</sys_created_on><sys_id>4e7d8b89c3b96210a16198fdd40131df</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Notes" display_value="Notes" name="x_244776_crave_request" sys_domain="global" view="Default view">027d8b89c3b96210a16198fdd40131df</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-27 14:11:30</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>activity.xml</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-27 14:11:30</sys_created_on><sys_id>427d8b89c3b96210a16198fdd40131f9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter><sys_ui_section caption="Notes" display_value="Notes" name="x_244776_crave_request" sys_domain="global" view="Default view">027d8b89c3b96210a16198fdd40131df</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-27 14:11:30</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Notes</caption><header>false</header><name>x_244776_crave_request</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-27 14:11:30</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>027d8b89c3b96210a16198fdd40131df</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_244776_crave_request</sys_name><sys_overrides/><sys_package display_value="Crave" source="x_244776_crave">47ec8f49c3b96210a16198fdd4013150</sys_package><sys_policy>read</sys_policy><sys_scope display_value="Crave">47ec8f49c3b96210a16198fdd4013150</sys_scope><sys_update_name>sys_ui_section_027d8b89c3b96210a16198fdd40131df</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-27 14:11:30</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>985894538</payload_hash>
+        <record_name>Crave Request</record_name>
+        <reverted_from/>
+        <source>03ec8f49c3b96210a16198fdd4013155</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-27 14:11:30</sys_created_on>
+        <sys_id>5a7d8b89c3b96210a16198fdd40131fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197121589690000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-27 14:11:30</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>ce7d8b898cb962109d1bb6ddaff9e1fa</update_guid>
+        <update_guid_history>ce7d8b898cb962109d1bb6ddaff9e1fa:985894538</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-27 14:16:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>6ae289455c31413082de2b9fa6098024</sys_id>
+        <sys_metadata>027d8b89c3b96210a16198fdd40131df</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Notes</sys_name>
+        <sys_package display_value="Crave" source="x_244776_crave">47ec8f49c3b96210a16198fdd4013150</sys_package>
+        <sys_parent display_value="">dbec8f49c3b96210a16198fdd4013173</sys_parent>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Crave">47ec8f49c3b96210a16198fdd4013150</sys_scope>
+        <sys_scope_delete display_value="">2eb8a4d87ee64432ab9feeb182908a51</sys_scope_delete>
+        <sys_update_name>sys_ui_section_027d8b89c3b96210a16198fdd40131df</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_027d8b89c3b96210a16198fdd40131df">5a7d8b89c3b96210a16198fdd40131fb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-27 14:16:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

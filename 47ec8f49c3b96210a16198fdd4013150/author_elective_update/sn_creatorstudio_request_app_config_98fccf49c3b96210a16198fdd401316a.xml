@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_creatorstudio_request_app_config">
+    <sn_creatorstudio_request_app_config action="DELETE">
+        <color>grouped-blue</color>
+        <icon>vacation-outline</icon>
+        <is_deleting>false</is_deleting>
+        <name>Crave</name>
+        <request_table>x_244776_crave_request</request_table>
+        <sys_class_name>sn_creatorstudio_request_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-27 14:09:12</sys_created_on>
+        <sys_id>98fccf49c3b96210a16198fdd401316a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Crave</sys_name>
+        <sys_package display_value="Crave" source="x_244776_crave">47ec8f49c3b96210a16198fdd4013150</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crave">47ec8f49c3b96210a16198fdd4013150</sys_scope>
+        <sys_update_name>sn_creatorstudio_request_app_config_98fccf49c3b96210a16198fdd401316a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-27 14:09:12</sys_updated_on>
+    </sn_creatorstudio_request_app_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Crave">47ec8f49c3b96210a16198fdd4013150</application>
+        <file_path/>
+        <instance_id>a3890f7c93a0eed4c4e8ddd548373c6e</instance_id>
+        <instance_name>dev310227</instance_name>
+        <name>sn_creatorstudio_request_app_config_98fccf49c3b96210a16198fdd401316a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_creatorstudio_request_app_config"><sn_creatorstudio_request_app_config action="INSERT_OR_UPDATE"><color>grouped-blue</color><icon>vacation-outline</icon><is_deleting>false</is_deleting><name>Crave</name><request_table>x_244776_crave_request</request_table><sys_class_name>sn_creatorstudio_request_app_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-27 14:09:12</sys_created_on><sys_id>98fccf49c3b96210a16198fdd401316a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Crave</sys_name><sys_package display_value="Crave" source="x_244776_crave">47ec8f49c3b96210a16198fdd4013150</sys_package><sys_policy/><sys_scope display_value="Crave">47ec8f49c3b96210a16198fdd4013150</sys_scope><sys_update_name>sn_creatorstudio_request_app_config_98fccf49c3b96210a16198fdd401316a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-27 14:09:12</sys_updated_on></sn_creatorstudio_request_app_config></record_update>]]></payload>
+        <payload_hash>-2142061488</payload_hash>
+        <record_name>Crave</record_name>
+        <reverted_from/>
+        <source>03ec8f49c3b96210a16198fdd4013155</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-27 14:09:12</sys_created_on>
+        <sys_id>90fccf49c3b96210a16198fdd401316d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19712136d500000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-27 14:09:12</sys_updated_on>
+        <type>Request App Config</type>
+        <update_guid>54fccf49a1b96210c1ddb495444abf6c</update_guid>
+        <update_guid_history>54fccf49a1b96210c1ddb495444abf6c:-2142061488</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Crave">65ae870dc3b96210a16198fdd401314f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-27 14:16:39</sys_created_on>
+        <sys_db_object display_value="" name="sn_creatorstudio_request_app_config">sn_creatorstudio_request_app_config</sys_db_object>
+        <sys_id>0c3fb80a5a2346478266f26e558d4611</sys_id>
+        <sys_metadata>98fccf49c3b96210a16198fdd401316a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Crave</sys_name>
+        <sys_package display_value="Crave" source="x_244776_crave">47ec8f49c3b96210a16198fdd4013150</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Crave">47ec8f49c3b96210a16198fdd4013150</sys_scope>
+        <sys_scope_delete display_value="">2eb8a4d87ee64432ab9feeb182908a51</sys_scope_delete>
+        <sys_update_name>sn_creatorstudio_request_app_config_98fccf49c3b96210a16198fdd401316a</sys_update_name>
+        <sys_update_version display_value="sn_creatorstudio_request_app_config_98fccf49c3b96210a16198fdd401316a">90fccf49c3b96210a16198fdd401316d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-27 14:16:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

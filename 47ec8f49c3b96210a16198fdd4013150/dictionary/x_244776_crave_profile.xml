@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ee783bcdc37d6210a16198fdd4013113" label="Profile" max_length="40" name="x_244776_crave_profile" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="4000" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Status" max_length="48" name="status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Full Name" max_length="40" name="full_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Crave Group" max_length="41" name="crave_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Joined On" max_length="46" name="joined_on" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="40" name="notes" type="string"/>
+    </element>
+</database>

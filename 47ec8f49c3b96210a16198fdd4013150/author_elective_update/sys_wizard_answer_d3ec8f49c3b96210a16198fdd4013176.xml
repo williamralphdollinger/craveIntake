@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Crave Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Crave Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">f861f76a5c0022105590c762d23e63a8</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-27 14:09:07</sys_created_on>
+        <sys_id>d3ec8f49c3b96210a16198fdd4013176</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Crave Request</sys_name>
+        <sys_package display_value="Crave" source="x_244776_crave">47ec8f49c3b96210a16198fdd4013150</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crave">47ec8f49c3b96210a16198fdd4013150</sys_scope>
+        <sys_update_name>sys_wizard_answer_d3ec8f49c3b96210a16198fdd4013176</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-27 14:09:07</sys_updated_on>
+        <table/>
+        <target_url>x_244776_crave_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Crave">47ec8f49c3b96210a16198fdd4013150</application>
+        <file_path/>
+        <instance_id>a3890f7c93a0eed4c4e8ddd548373c6e</instance_id>
+        <instance_name>dev310227</instance_name>
+        <name>sys_wizard_answer_d3ec8f49c3b96210a16198fdd4013176</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Crave Request</answer><button_label/><dependent_value/><element/><name>Crave Request</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">f861f76a5c0022105590c762d23e63a8</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-27 14:09:07</sys_created_on><sys_id>d3ec8f49c3b96210a16198fdd4013176</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Crave Request</sys_name><sys_package display_value="Crave" source="x_244776_crave">47ec8f49c3b96210a16198fdd4013150</sys_package><sys_policy/><sys_scope display_value="Crave">47ec8f49c3b96210a16198fdd4013150</sys_scope><sys_update_name>sys_wizard_answer_d3ec8f49c3b96210a16198fdd4013176</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-27 14:09:07</sys_updated_on><table/><target_url>x_244776_crave_request.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>1542034771</payload_hash>
+        <record_name>Crave Request</record_name>
+        <reverted_from/>
+        <source>7573e630c3312210a16198fdd401311f</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-05-26 16:29:30</sys_created_on>
+        <sys_id>b9ae870dc3b96210a16198fdd401319b</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1970d6d82100000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>79ae870db4b962105b25ef3a2cd2fa9b</update_guid>
+        <update_guid_history>79ae870db4b962105b25ef3a2cd2fa9b:1542034771</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-27 14:16:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>372556a57220493094e83106ecca5f90</sys_id>
+        <sys_metadata>d3ec8f49c3b96210a16198fdd4013176</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Crave Request</sys_name>
+        <sys_package display_value="Crave" source="x_244776_crave">47ec8f49c3b96210a16198fdd4013150</sys_package>
+        <sys_parent display_value="Task">f861f76a5c0022105590c762d23e63a8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Crave">47ec8f49c3b96210a16198fdd4013150</sys_scope>
+        <sys_scope_delete display_value="">2eb8a4d87ee64432ab9feeb182908a51</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_d3ec8f49c3b96210a16198fdd4013176</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_d3ec8f49c3b96210a16198fdd4013176">b9ae870dc3b96210a16198fdd401319b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-27 14:16:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_244776_crave_profile">x_244776_crave_profile</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>PRL</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-27 17:19:26</sys_created_on>
+        <sys_id>0f783bcdc37d6210a16198fdd401316e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRL</sys_name>
+        <sys_package display_value="Crave" source="x_244776_crave">47ec8f49c3b96210a16198fdd4013150</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crave">47ec8f49c3b96210a16198fdd4013150</sys_scope>
+        <sys_update_name>sys_number_0f783bcdc37d6210a16198fdd401316e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-27 17:19:26</sys_updated_on>
+    </sys_number>
+</record_update>
