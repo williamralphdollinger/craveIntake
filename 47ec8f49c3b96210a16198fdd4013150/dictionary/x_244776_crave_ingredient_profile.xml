@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="14f0dc70c3862a10a16198fdd4013184" label="Ingredient Profile" max_length="40" name="x_244776_crave_ingredient_profile" type="collection">
+        <element label="Ingredient" max_length="32" name="ingredient" reference="x_244776_crave_ingredient" type="reference"/>
+        <index name="index">
+            <element name="ingredient"/>
+        </index>
+    </element>
+</database>
